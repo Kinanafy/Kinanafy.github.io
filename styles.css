@@ -1,0 +1,158 @@
+body, html{
+    background-color: #F4E3B2;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.title {
+    color:#000000;
+    background-color: #840032;
+    font-size: 3rem;
+    padding: 2rem;
+    text-align: left;
+    margin:0%;
+}
+#duck {
+    float: right;
+    margin: 4% 4% 1% 1%;
+}
+#bio_title {
+    text-align:center;
+    color:black;
+    background-color: #9EADC8;
+    border-radius: 15px;
+    font-size: 2.5rem;
+    width: 4%;
+    height: 2%;
+    padding: .6%;
+    margin: 2% 3% 2% 20%;
+}
+#bio {
+    color:black;
+    background-color: #9EADC8;
+    border-radius: 15px;
+    font-size: 1.6rem;
+    width: 20%;
+    height: 10%;
+    padding: 1.5rem;
+    margin: 2% 10% 5% 25%;
+}
+.body {
+    overflow:auto;
+    background-color: #F49390;
+    margin: 5% 0% 0% 0%;
+}
+#about {
+    background-color: #9EADC8;
+    font-size: 2rem;
+    width: 10%;
+    text-align:center;
+    border-radius: 15px;
+    margin: 1% 45% 3% 45%;
+}
+why {
+    float: left;
+    width: 20%;
+    margin: 0% 0% 2% 10%;
+    background-color: #9EADC8;
+    font-size: 1.4rem;
+    border-radius: 15px;
+    text-align:center;
+}
+how {
+    float: left;
+    width: 20%;
+    margin: 0% 0% 2% 10%;
+    background-color: #9EADC8;
+    font-size: 1.4rem;
+    border-radius: 15px;
+    text-align:center;
+}
+media {
+    float: left;
+    width: 20%;
+    margin: 0% 0% 2% 10%;
+    background-color: #9EADC8;
+    font-size: 1.4rem;
+    border-radius: 15px;
+    text-align:center;
+}
+#top5 {
+    overflow:auto;
+    background-color: #F49390;
+    margin: 3% 0% 3% 0%;
+}
+top5d {
+    float: left;
+    background-color: #9EADC8;
+    font-size: 1.4rem;
+    width: 30%;
+    text-align:center;
+    border-radius: 15px;
+    margin: 3% 35% 3% 35%;
+}
+one {
+    float: left;
+    padding: .67%;
+    margin: 3% 0% 3% 7%;
+    background-color: #9EADC8;
+    font-size: 1.4rem;
+    text-align:center;
+    border-radius: 15px;
+    width: 10%
+}
+two {
+    float: left;
+    padding: .67%;
+    margin: 3% 0% 3% 7%;
+    background-color: #9EADC8;
+    font-size: 1.4rem;
+    text-align:center;
+    border-radius: 15px;
+    width: 10%
+}
+three {
+    float: left;
+    padding: .67%;
+    margin: 3% 0% 3% 7%;
+    background-color: #9EADC8;
+    font-size: 1.4rem;
+    text-align:center;
+    border-radius: 15px;
+    width: 10%
+}
+four {
+    float: left;
+    padding: .67%;
+    margin: 3% 0% 3% 7%;
+    background-color: #9EADC8;
+    font-size: 1.4rem;
+    text-align:center;
+    border-radius: 15px;
+    width: 10%
+}
+five {
+    float: left;
+    padding: .67%;
+    margin: 3% 0% 3% 7%;
+    background-color: #9EADC8;
+    font-size: 1.4rem;
+    text-align:center;
+    border-radius: 15px;
+    width: 10%
+}
+#footer {
+overflow:auto;
+background-color: #002642;
+height: 7rem;
+margin: 1% 0% 0% 0%
+}
+generic {
+    float: right;
+    background-color: #9EADC8;
+    border-radius: 15px;
+    text-align: center;
+    width: 15%;
+    margin: 0.5% 2% 0.5% 0%;
+}
